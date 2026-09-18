@@ -8,8 +8,8 @@ I love coaching and training people. I'm specialised in JavaScript, and React, a
 
 * 🌍  I'm based in Brasov, Romania
 * ✉️  You can contact me at [paul.negoescu@gmail.com](mailto:paul.negoescu@gmail.com)
-* 🚀  I'm currently working on [QuizzBuzz, an online quiz app using Supabase and Next JS](http://github.com/PaulNegoescu/quizzbuzz)
-* 🧠  I'm learning Jotai
+* 🚀  I'm currently working on client projects
+* 🧠  I'm learning Python and diving deeper into AWS details
 * 🤝  I'm open to collaborating on all of your training needs and awesome projects
 
 ### Skills
