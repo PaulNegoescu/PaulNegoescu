@@ -41,11 +41,9 @@ I love coaching and training people. I'm specialised in JavaScript, and React, a
 
 <p align="left"> <a href="https://www.facebook.com/negoescu.paul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/PaulNegoescu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/paulnegoescu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@paul.negoescu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/paul-negoescu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/PaulNegoescu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@coderventure4632" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=PaulNegoescu&theme=ayu&size=compact)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=PaulNegoescu&theme=ayu&hide_border=true&hide_title=true&custom_title=Booyah%21&size=compact)
 
 ### Support Me
 
